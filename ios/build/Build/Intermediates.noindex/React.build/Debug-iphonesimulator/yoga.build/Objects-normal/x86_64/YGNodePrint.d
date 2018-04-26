@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGNode.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGLayout.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
-  /Users/apple/dev/dev-myz/github/RNDemo/node_modules/_react-native@0.55.3@react-native/ReactCommon/yoga/yoga/YGStyle.h
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/test/dev/github/RNDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h
