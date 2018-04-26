@@ -1,2 +1,5 @@
-/node_modules/
-/ios/build/
+node_modules
+ios/build/Build
+.DS_Store
+*.log
+!package.json
